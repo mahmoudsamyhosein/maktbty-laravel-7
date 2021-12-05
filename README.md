@@ -1,2 +1,2 @@
 رابط معاينه الموقع 
-http://maktbty-laravel-8.herokuapp.com/
+http://maktbty-by-mshm.herokuapp.com/public/
