@@ -1,2 +1,2 @@
 رابط معاينه الموقع 
-http://maktbty-by-mshm.herokuapp.com/public/
+http://maktabty.herokuapp.com/
